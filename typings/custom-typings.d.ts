@@ -77,7 +77,7 @@ declare module 'rc-upload';
 
 declare module 'rc-collapse';
 
-declare module 'rc-form*';
+declare module 'bl-form*';
 
 declare module 'react-lazy-load';
 

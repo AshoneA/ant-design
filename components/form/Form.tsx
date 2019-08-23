@@ -1,8 +1,8 @@
 import * as React from 'react';
 import * as PropTypes from 'prop-types';
 import classNames from 'classnames';
-import createDOMForm from 'rc-form/lib/createDOMForm';
-import createFormField from 'rc-form/lib/createFormField';
+import createDOMForm from 'bl-form/lib/createDOMForm';
+import createFormField from 'bl-form/lib/createFormField';
 import omit from 'omit.js';
 import { ConfigConsumer, ConfigConsumerProps } from '../config-provider';
 import { ColProps } from '../grid/col';
